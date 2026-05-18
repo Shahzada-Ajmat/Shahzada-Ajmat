@@ -107,4 +107,45 @@ To preserve absolute human dignity and trust, ZenfloAI operates on an uncompromi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahzada-Ajmat&show_icons=true&locale=en&theme=react&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzada-ajmat&theme=react&background=0d1117&hide_border=true" alt="Commit Streak" width="49%" />
-</p>
+</p> 
+
+
+ name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically every 24 hours
+  workflow_dispatch: # Allows you to run it manually anytime
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # Generates the snake animation from your contribution grid
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Shahzada-Ajmat
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-dark
+        
+      # Intercepts the SVG's internal CSS and forces the movement duration to a smooth 15-second loop
+      - name: Adjust Animation Speed to be Slower
+        run: |
+          sed -i 's/animation:.*s/animation: move 15s linear infinite/g' dist/github-contribution-grid-snake.svg
+
+      # Deploys the modified slower snake file directly to your 'output' branch
+      - name: Push github-contribution-grid-snake.svg to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
