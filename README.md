@@ -20,12 +20,18 @@
 
 ---
 
-### 🚀 Highlights & Focus
+### ⚙️ Technical Profile & Milestones
 
-* 🏆 **Achievements:** National Top 100 Finalist @ *Samsung Solve for Tomorrow*
-* 🌱 **Currently Mastering:** Advanced Artificial Intelligence modeling, scalable Python data pipelines, and robust enterprise architecture using Java Spring Boot.
-* 🤝 **Open Source:** Actively looking to collaborate on purposeful AI/ML pipelines and modern Full-Stack architectures.
+#### 🏆 Achievements
+* National Top 100 Finalist — Samsung *Solve for Tomorrow* (2024)
 
+#### 🧠 Current Focus
+* Designing Machine Learning (ML) workflows and advanced AI modeling
+* Engineering scalable Python data pipelines
+* Developing robust enterprise architecture with Java Spring Boot
+
+#### 🤝 Open Source
+* Actively looking to collaborate on production-ready ML/AI applications and modern full-stack systems
 ---
 
 ### 🔬 Active R&D Focus: ZenfloAI
