@@ -85,15 +85,11 @@ To preserve absolute human dignity and trust, ZenfloAI operates on an uncompromi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=312e81&height=80&section=header&v=3" width="100%"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E599&center=true&vCenter=true&width=600&lines=📋+Initializing+Telemetry+Engine...;⚡+Compiling+Live+Production+Metrics...;🐍+Executing+Contribution+Snake+Simulation...;🚀+Status:+Systems+Fully+Operational" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E599&center=true&vCenter=true&width=600&lines=Initializing+Telemetry+Engine...;Compiling+Live+Production+Metrics...;Executing+Core+Simulations...;Status:+Systems+Fully+Operational&v=5" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <marquee scrollamount="7" width="80%" direction="left" style="color:#00E599; font-family: 'Fira Code', monospace; font-size:14px; font-weight:bold;">
-    🟢 ALL SYSTEMS NOMINAL &nbsp;&nbsp;|&nbsp;&nbsp; 📡 FETCHING REPOSITORY DATA... &nbsp;&nbsp;|&nbsp;&nbsp; 🧠 ZENFLOAI ARCHITECTURE ACTIVE &nbsp;&nbsp;|&nbsp;&nbsp; 🔒 2FA AUTHENTICATED &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 ENGINE FULLY OPERATIONAL
-  </marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=00E599&center=true&vCenter=true&width=800&lines=[OK]+ALL+SYSTEMS+NOMINAL;[NET]+FETCHING+REPOSITORY+DATA...;[SYS]+ZENFLOAI+ARCHITECTURE+ACTIVE;[AUTH]+2FA+AUTHENTICATED;[UP]+ENGINE+FULLY+OPERATIONAL&v=2" alt="System Status Ticker" />
 </p>
 
 <p align="center">
