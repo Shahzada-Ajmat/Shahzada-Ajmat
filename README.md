@@ -88,25 +88,23 @@ To preserve absolute human dignity and trust, ZenfloAI operates on an uncompromi
 
 ---
 
-### 📊 Git Production Metrics
+### ⚡ Live Production Telemetry & Activity Engine
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzada-ajmat&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E599&center=true&vCenter=true&width=600&lines=📋+Initializing+Telemetry+Engine...;⚡+Compiling+Live+Production+Metrics...;🐍+Executing+Contribution+Snake+Simulation...;🚀+Status:+Systems+Fully+Operational" alt="Typing SVG" />
+  </a>
 </p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=shahzada-ajmat&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="195px"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzada-ajmat&theme=dark" alt="GitHub Streak" height="195px"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shahzada-Ajmat/Shahzada-Ajmat/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</p>
 
-<p align="center" style="margin-top: 15px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahzada-ajmat&theme=twodark&column=7" alt="Trophies" width="100%"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzada-Ajmat&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Core Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahzada-Ajmat&show_icons=true&locale=en&theme=react&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzada-ajmat&theme=react&background=0d1117&hide_border=true" alt="Commit Streak" width="49%" />
 </p>
