@@ -28,6 +28,27 @@
 
 ---
 
+### 🔬 Active R&D Focus: ZenfloAI
+
+**ZenfloAI** is an open-source, universal open-access ecosystem designed to serve as a global sanctuary for human alignment. Born from an intersection of deep philosophy, survival, and a response to the modern crisis of existential burnout, this platform rejects transactional technology frameworks to help individuals slow down, find purpose, and navigate systemic stress.
+
+#### 🏗️ Core System Architecture
+The platform synthesizes centuries of profound human insight into a unified, high-scale cognitive framework: 
+
+#### ⛩️ Multi-Disciplinary Framework
+The platform architecture synthesizes centuries of profound human insight into a cohesive, unified framework:
+* **The Existential Shield:** Utilizing the *Poison Arrow* parable to halt paralyzing overthinking and redirect cognitive energy onto active, mindful living.
+* **The Fluid Dynamics of Mind:** Embedding the Taoist *Wu-Wei* (effortless action) and water philosophies to help individuals flow seamlessly around life's obstacles rather than breaking against them.
+* **The Boundary Engine:** Implementing core Stoic principles to sharply divide what is actively in a user's hand from what is merely cluttering their head.
+* **The Tactical Roadmap:** Leveraging strategic principles from *The Art of War* to help users map out chaotic real-world terrains and resolve conflicts intelligently without fighting.
+* **Biological Synchrony:** Integrating physical grounding disciplines, including intentional diaphragmatic breathing models and Qigong energy concepts, to actively calm the autonomic nervous system.
+
+#### 🛡️ Institutional Data Integrity & Ethical Research Model
+To preserve absolute human dignity and trust, ZenfloAI operates on an uncompromised structural blueprint:
+* **A Zero-Commercial Sanctuary:** The entire ecosystem is completely ad-free, private, and universally accessible. Those seeking mental stillness are never locked behind financial paywalls or exploited by cheap commercial gimmicks.
+* **Trusted Academic Partnerships Only:** To sustain global infrastructure resources, data utilization is restricted exclusively to accredited, trusted universities and medical research institutions.
+* **Mandatory Ethical Review:** Every academic partner undergoes a strict vetting process to guarantee their research objectives are strictly non-commercial, highly secure, and dedicated purely to advancing human mental health science.
+---
 ### 🛠️ Tech Stack & Ecosystem
 
 <table>
