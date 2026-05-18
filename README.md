@@ -94,7 +94,7 @@ To preserve absolute human dignity and trust, ZenfloAI operates on an uncompromi
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=00E599&center=true&vCenter=true&width=800&lines=[OK]+ALL+SYSTEMS+NOMINAL;[NET]+FETCHING+REPOSITORY+DATA...;[SYS]+ZENFLOAI+ARCHITECTURE+ACTIVE;[AUTH]+2FA+AUTHENTICATED;[UP]+ENGINE+FULLY+OPERATIONAL&v=2" alt="System Status Ticker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=00E599&center=true&vCenter=true&width=800&lines=[OK]+ALL+SYSTEMS+NOMINAL;[NET]+FETCHING+REPOSITORY+DATA...;[SYS]+Zenflow AI+ARCHITECTURE+ACTIVE;[AUTH]+2FA+AUTHENTICATED;[UP]+ENGINE+FULLY+OPERATIONAL&v=2" alt="System Status Ticker" />
 </p>
 
 <p align="center">
