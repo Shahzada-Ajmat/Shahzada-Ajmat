@@ -55,44 +55,25 @@ To preserve absolute human dignity and trust, ZenfloAI operates on an uncompromi
 * **Trusted Academic Partnerships Only:** To sustain global infrastructure resources, data utilization is restricted exclusively to accredited, trusted universities and medical research institutions.
 * **Mandatory Ethical Review:** Every academic partner undergoes a strict vetting process to guarantee their research objectives are strictly non-commercial, highly secure, and dedicated purely to advancing human mental health science.
 ---
-### 🛠️ Tech Stack & Ecosystem
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <strong>💻 Languages</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="28" height="28"/> Python<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="28" height="28"/> JavaScript<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="28" height="28"/> TypeScript<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="28" height="28"/> Java<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="28" height="28"/> C++ / C
-    </td>
-    <td width="25%" valign="top">
-      <strong>🌐 Web Development</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="28" height="28"/> React<br/>
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="28" height="28"/> Next.js<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="28" height="28"/> Redux Toolkit<br/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="28" height="28"/> Tailwind CSS<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="28" height="28"/> Bootstrap
-    </td>
-    <td width="25%" valign="top">
-      <strong>⚙️ Backend & DB</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="28" height="28"/> Node.js<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="28" height="28"/> Express.js<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="28" height="28"/> PostgreSQL<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="28" height="28"/> MongoDB<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="28" height="28"/> MySQL
-    </td>
-    <td width="25%" valign="top">
-      <strong>🛠️ Infrastructure & Tools</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="28" height="28"/> Pandas Data Tooling<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="28" height="28"/> Docker<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="28" height="28"/> AWS Cloud<br/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="28" height="28"/> Git Version Control<br/>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/> Figma UI/UX
-    </td>
-  </tr>
-</table>
+
+
+
+### 🛠️ Technical Skills
+
+| Category | Core Technologies, Frameworks & Methodologies |
+| :--- | :--- |
+| 💻 **Programming Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" valign="middle"> Java &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" valign="middle"> Python &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" valign="middle"> JavaScript (ES6+) &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16" height="16" valign="middle"> C++ &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16" height="16" valign="middle"> C |
+| ⚙️ **Backend Engineering** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" height="16" valign="middle"> Node.js &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="16" height="16" valign="middle"> Express.js &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="16" height="16" valign="middle"> Spring Boot &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/openapiinitiative" width="16" height="16" valign="middle"> REST APIs &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/googleauthenticator" width="16" height="16" valign="middle"> Authentication & 2FA |
+| 🗄️ **Database & Cloud** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" valign="middle"> PostgreSQL &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="16" height="16" valign="middle"> MongoDB Atlas &nbsp; <img src="https://media.zenfs.com/en/globenewswire.com/ea84af8d46d14179febb234fa36d87ec" width="16" height="16" valign="middle"> Neon &nbsp;&nbsp; <img src="https://assets.topadvisor.com/media/_solution_logo_09222023_26755928.png" width="16" height="16" valign="middle"> Aiven &nbsp;&nbsp; <img src="https://api.iconify.design/material-symbols:schema-outline.svg" width="16" height="16" valign="middle"> Relational Schema Design |
+| 📊 **Data Science & Analytics** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="16" height="16" valign="middle"> Pandas &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="16" height="16" valign="middle"> NumPy &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="16" height="16" valign="middle"> Matplotlib &nbsp;&nbsp; <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="16" height="16" valign="middle"> Power BI &nbsp;&nbsp; <img src="https://logospng.org/wp-content/uploads/microsoft-excel.png" width="16" height="16" valign="middle"> MS Excel &nbsp;&nbsp; |
+| 🎨 **Frontend & UI/UX** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" valign="middle"> React.js &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" height="16" valign="middle"> Next.js &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="16" height="16" valign="middle"> Tailwind CSS &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/shadcnui" width="16" height="16" valign="middle"> shadcn/ui &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/display.svg" width="16" height="16" valign="middle"> Responsive Design |
+| 🔧 **Developer Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" height="16" valign="middle"> VS Code &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="16" height="16" valign="middle"> IntelliJ IDEA &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="16" height="16" valign="middle"> Jupyter Notebook &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16" height="16" valign="middle"> Figma &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16" valign="middle"> Git &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" valign="middle"> GitHub &nbsp;&nbsp;    <img src="https://cdn.simpleicons.org/replit" width="16" height="16" valign="middle"> Replit &nbsp;&nbsp;  <img src="https://cdn.simpleicons.org/n8n" width="16" height="16" valign="middle"> n8n &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/cursor" width="16" height="16" valign="middle"> Cursor AI |
+
+
+
+
+
 
 ---
 
