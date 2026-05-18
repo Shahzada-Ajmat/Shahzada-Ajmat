@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Shahzada Ajmat 👨‍💻</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=FFB800&center=true&vCenter=true&width=500&lines=%24+Run+AI%2FML+Engineer;%24+Run+Full-Stack+Developer" alt="Typing SVG" /></a>
-</p>
-<p align="center">
   <a href="https://linkedin.com/in/shahzada-ajmat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/c/@curiouscoder0001" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://instagram.com/curiouscoder0001" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -85,6 +82,8 @@ To preserve absolute human dignity and trust, ZenfloAI operates on an uncompromi
 
 ### ⚡ Live Production Telemetry & Activity Engine
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=312e81&height=80&section=header&v=3" width="100%"/>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E599&center=true&vCenter=true&width=600&lines=📋+Initializing+Telemetry+Engine...;⚡+Compiling+Live+Production+Metrics...;🐍+Executing+Contribution+Snake+Simulation...;🚀+Status:+Systems+Fully+Operational" alt="Typing SVG" />
@@ -92,14 +91,17 @@ To preserve absolute human dignity and trust, ZenfloAI operates on an uncompromi
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shahzada-Ajmat/Shahzada-Ajmat/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  <marquee scrollamount="7" width="80%" direction="left" style="color:#00E599; font-family: 'Fira Code', monospace; font-size:14px; font-weight:bold;">
+    🟢 ALL SYSTEMS NOMINAL &nbsp;&nbsp;|&nbsp;&nbsp; 📡 FETCHING REPOSITORY DATA... &nbsp;&nbsp;|&nbsp;&nbsp; 🧠 ZENFLOAI ARCHITECTURE ACTIVE &nbsp;&nbsp;|&nbsp;&nbsp; 🔒 2FA AUTHENTICATED &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 ENGINE FULLY OPERATIONAL
+  </marquee>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzada-Ajmat&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Core Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzada-ajmat&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Core Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahzada-Ajmat&show_icons=true&locale=en&theme=react&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzada-Ajmat&theme=react&background=0d1117&hide_border=true" alt="Commit Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzada-ajmat&theme=react&background=0d1117&hide_border=true" alt="Commit Streak" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=312e81&height=80&section=footer&v=3" width="100%"/>
