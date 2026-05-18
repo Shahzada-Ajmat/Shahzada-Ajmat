@@ -23,7 +23,7 @@
 ### ⚙️ Technical Profile & Milestones
 
 #### 🏆 Achievements
-* National Top 100 Finalist — Samsung *Solve for Tomorrow* (2024)
+🏅 **National Top 100 Finalist @ Samsung Solve for Tomorrow 2024:** Recognized nationally for developing an assistive healthcare tech solution ("Smart White Cane") for blind individuals.
 
 #### 🧠 Current Focus
 * Designing Machine Learning (ML) workflows and advanced AI modeling
