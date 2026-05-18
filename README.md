@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Shahzada Ajmat 👨‍💻</h1>
 <p align="center">
-  <strong>Full-Stack Engineer & AI/ML Developer</strong>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=FFB800&center=true&vCenter=true&width=500&lines=%24+Run+AI%2FML+Engineer;%24+Run+Full-Stack+Developer" alt="Typing SVG" /></a>
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/shahzada-ajmat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/c/@curiouscoder0001" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -22,6 +21,7 @@
 ---
 
 ### 🚀 Highlights & Focus
+
 * 🏆 **Achievements:** National Top 100 Finalist @ *Samsung Solve for Tomorrow*
 * 🌱 **Currently Mastering:** Advanced Artificial Intelligence modeling, scalable Python data pipelines, and robust enterprise architecture using Java Spring Boot.
 * 🤝 **Open Source:** Actively looking to collaborate on purposeful AI/ML pipelines and modern Full-Stack architectures.
