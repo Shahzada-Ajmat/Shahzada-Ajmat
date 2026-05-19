@@ -13,8 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=shahzada-ajmat&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-
-
 ---
 
 ### 💡 Core Philosophy
@@ -65,12 +63,7 @@ To preserve absolute human dignity and trust, ZenfloAI operates on an uncompromi
 * ⚖️ **Mandatory Ethical Review:** Every academic partner undergoes a strict vetting process to guarantee their research objectives are strictly non-commercial, highly secure, and dedicated purely to advancing human mental health science.
 </details>
 
-
-
 ---
-
-
-
 
 ### 🛠️ Technical Skills
 
